@@ -1,5 +1,5 @@
 ---
-author: Π2018012
+author: chrislach1
 title: Apple Rhapsody
 year: 1996
 image_url: http://toastytech.com/guis/rhaploging.png
