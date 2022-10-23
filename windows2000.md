@@ -1,5 +1,5 @@
 ---
-author: Π2018012
+author: chrislach1
 title: Windows 2000
 year: 2000
 image_url: http://toastytech.com/guis/w2kboot.png
