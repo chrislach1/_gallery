@@ -7,6 +7,7 @@ caption: Το Magic Desk, είναι ένα είδος γραφικού περι
 license_url: "https://en.wikipedia.org/wiki/Magic_Desk#/media/File:Magic_Desk_I_main_screen.png" 
 license_text: Wikimedia
 categories:
+  - Εργαλεία
   - Γραφική Διεπαφή
   - Επιφάνεια Εργασίας
 tags:
