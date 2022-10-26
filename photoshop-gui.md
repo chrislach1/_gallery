@@ -10,5 +10,6 @@ categories:
 tags:
   - Adobe
   - Photoshop
-  - 
+  - photography
+  - digital art 
 ---
