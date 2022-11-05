@@ -1,6 +1,6 @@
 ---
 author: GiorgosChiras
-title: Godot Engine 2001
+title: Godot Engine 2014
 year: 2014
 image_url: /images/godot-engine-1.0.png
 caption: 'Η GoDot είναι μία cross-platform, open source, μηχανή παιχνιδιών η οποία το πρώτο development build της να χρονολογέιται το 2001 απο δύο προγραμματιστές της Αργεντινής, τον Juan Linietsky και Ariel Manzur, για διάφορες εταιρίες της Λατινικής Αμερικής.
