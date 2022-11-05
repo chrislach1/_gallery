@@ -8,12 +8,12 @@ caption: 'H Unreal Engine είναι μια μηχανή 3D και 2D παιχν
 Αρχικά, η μηχανή βασιζόταν σε software rendering, το οποίο σημαίνει οτι οι υπολογισμοί των γραφικών έκαναν heavy-usage της CPU.
 Με την πάροδο του χρόνου, αυτό άλλαξε με τις ικανότητες που επέτρεπαν οι κάρτες γραφικών.'
 categories:
-	- Εργαλεία
-	- Πολυμέσα
-	- Βιντεοπαιχνίδια
+ - Εργαλεία
+ - Πολυμέσα
+ - Βιντεοπαιχνίδια
 tags:
-	-Unreal Engine
-	-Video Games
-	-Game Engines
-	-Epic Games
+ -Unreal Engine
+ -Video Games
+ -Game Engines
+ -Epic Games
 ---
