@@ -1,4 +1,4 @@
---
+---
 author: GiorgosChiras
 title: Photoshop 1988
 image_url: /images/photoshop1988.png
